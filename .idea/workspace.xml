@@ -5,19 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6def473c-b510-47a8-b6a2-2657324174d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/handlers/ApiClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/handlers/Parameters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/handlers/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/handlers/UserResponsed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/handlers/WebDriverFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageobjects/AuthPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageobjects/ForgotPasswordPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageobjects/MainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageobjects/ProfilePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageobjects/RegisterPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/praktikum/AuthTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/praktikum/MainPageTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/praktikum/ProfilePageTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/praktikum/RegisterPageTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2pkvJfNdnAYZjNslkIe1TbLEz3j" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -26,10 +48,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.AuthTests.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "develop3",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/Users/liliyaozturk/Documents/diplom/Diplom-QA-3/src/main/java/org/example/Main.java"
+    "onboarding.tips.debug.path": "/Users/liliyaozturk/Documents/diplom/Diplom-QA-3/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
